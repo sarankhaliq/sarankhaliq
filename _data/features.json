@@ -1,0 +1,32 @@
+[
+  {
+    "title": "One-to-One",
+    "description": "New clients receive an obligation free consultation.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Small Group",
+    "description": "All members of our team are certified accountants.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Large Group",
+    "description": "We stay up to date on the latest changes to the tax code.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+{
+    "title": "Regular",
+    "description": "We stay up to date on the latest changes to the tax code.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Weekend",
+    "description": "We stay up to date on the latest changes to the tax code.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Summers",
+    "description": "We stay up to date on the latest changes to the tax code.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+]
